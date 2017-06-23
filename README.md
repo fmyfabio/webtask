@@ -17,7 +17,7 @@ Execute the command:
 ```
 Parameters:
 
-  > **SECRET** is akey used to generate a token on github webhook.
+  > **SECRET** is a key used to generate a token on github webhook.
   
   > **MONGO_URL** is a Mongo Database URL.
 
