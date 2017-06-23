@@ -10,7 +10,7 @@ Enter in https://webtask.io and sign up, after that follow the short example to 
 
 #### Create a webtask URL
 
-Execute the command:
+Execute the command on terminal:
 
 ```console
   wt create --secret SECRET=123456 --secret MONGO_URL=mongodb://<user>:<password>@ds131782.mlab.com:31782/fmyfabio Webtask.js
