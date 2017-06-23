@@ -1,6 +1,6 @@
 # webtask
 
-This is a webtask implementation to receive requests by github webhook and storage the avents in a MongoDB.
+This is a webtask implementation to receive requests by github webhook and storage the events in a MongoDB.
 
 I'll give the steps to use this webtaks:
 
